@@ -1,0 +1,94 @@
+p{
+    color:blue;
+}
+
+
+/*做一个简单表*/
+.chart rect{
+    fill:blue;
+}
+
+.chart text{
+    fill:white;
+    font:10px;
+    text-anchor: end;
+}
+
+
+
+/*更改坐标轴样式*/
+.axis1 line{
+    /*这样修改为什么改变不了*/
+    font-size: xx-large;
+  
+}
+
+.tick line{
+    stroke: rgb(89, 5, 97);   /*线条的颜色*/
+    /*x1 定义线条的开始，x2线条的结束*/
+    width: 4px;
+}
+
+.domain{      /*取消自带的框*/
+    display: none;
+}
+
+
+
+
+/*右下角年份*/
+.yearlable{
+    fill:slategrey;
+    font-size: 50pt;
+    font-weight: bold;
+}
+
+.contextRect{
+    fill:rgb(0, 0, 0);
+}
+
+/*试试图片*/
+.circlePic{
+    border-radius: 10px;
+    fill:rgb(4, 13, 143)
+}
+
+/*中国GDP*/
+.chinaGDP{
+    fill:rgb(255, 238, 5);
+    font-size:20pt;
+    font-weight: bold;
+}
+
+.flag{
+    filter:blur(2px);
+    filter:hue-rotate(70deg);
+    border:50px solid #ccc;
+}
+
+.chinaRank{
+    fill:rgb(255, 238, 5);
+    font-size:40pt;
+    font-weight: bold;
+
+}
+
+.chinaProp{
+    fill:rgb(255, 238, 5);
+    font-size:40pt;
+    font-weight: bold;
+}
+
+.exp{
+    fill:rgb(255, 174, 0);
+    font-size:30pt;
+    font-weight: bold;
+}
+
+
+/*触发元素条目的字*/
+.neirong{
+    fill:rgb(0, 0, 0);
+    font-size:10pt;
+    font-weight: bold;
+}
