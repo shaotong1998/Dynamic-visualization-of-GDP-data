@@ -16,3 +16,4 @@ country_flag压缩包中包含了一些国家或地区的旗帜图片。
 
 图片来自：https://www.ivsky.com/tupian/geguo_guoqi_v1773/
 数据来自：https://www.kylc.com/stats/global/yearly/g_gdp/1960.html
+（数据收集自网络，仅供个人学习交流使用，版权归原作者所有，请勿用于任何商业用途）
