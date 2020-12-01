@@ -7,6 +7,6 @@
 ##### 3.增加了鼠标跟踪
 
 
-country_flag压缩包中包含了一些国家或地区的旗帜图片。
+country_flag中包含了一些国家或地区的旗帜图片。
 使用时，country_flag移动到本地，打开main并引入csv文件。
 
